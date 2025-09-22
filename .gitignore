@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node/React
+node_modules/
+.next/
+.env
+
+# OS/IDE
+.DS_Store
+.vscode/
