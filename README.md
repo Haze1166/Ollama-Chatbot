@@ -4,7 +4,7 @@
 ## 📋 Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
-- [Architecture](#architecture)
+- [Demonstration](#demonstration)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Frontend](#frontend)
