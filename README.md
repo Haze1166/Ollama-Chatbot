@@ -27,8 +27,8 @@ Chatbot Ollama is a full-stack chatbot application using Ollama as the LLM backe
 
 ---
 
-## 🏗️ Architecture
-See `docs/architecture.png` for a visual overview.
+## 🏗️ Demonstration
+See `docs/demonstration.mp4` for a visual overview.
 
 ---
 
