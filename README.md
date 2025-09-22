@@ -11,7 +11,6 @@
 - [Backend](#backend)
 - [Extra Features](#extra-features)
 - [Design Trade-offs](#design-trade-offs)
-- [License](#license)
 
 ---
 
@@ -45,7 +44,7 @@ See `docs/architecture.png` for a visual overview.
 
 **Clone the repo:**
 ```sh
-git clone https://github.com/yourusername/chatbot-ollama.git
+git clone https://github.com/haze1166/chatbot-ollama.git
 cd chatbot-ollama
 ```
 
@@ -93,6 +92,5 @@ See `docs/tradeoffs.md` for more details:
 - Next.js for SSR, but more complex than plain React
 - Ollama for local LLM, but needs local resources
 
----
 
 
